@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+.display-none {
+    display: none;
+}
+.marg-b-25 {
+    margin-bottom: 25px;
+}
+.marg-t-10 {
+    margin-top: 10px;
+}
+.marg-l-8 {
+    margin-left: 8px;
+}

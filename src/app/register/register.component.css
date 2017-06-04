@@ -1,0 +1,13 @@
+.signup-box {
+    margin-top: 50px;
+}
+.signin-link-container {
+    float: right;
+    font-size: 85%;
+    position: relative;
+    top: -10px
+}
+.fb-signup-container {
+    border-top: 1px solid #888;
+    padding-top: 15px;
+}

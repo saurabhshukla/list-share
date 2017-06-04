@@ -1,0 +1,17 @@
+.login-box {
+    margin-top: 50px;
+}
+.forgot-password-container {
+    float: right;
+    font-size: 80%;
+    position: relative;
+    top: -10px
+}
+.login-container-body {
+    padding-top: 30px
+}
+.signup-container {
+    border-top: 1px solid#888;
+    padding-top: 15px;
+    font-size: 85%;
+}
